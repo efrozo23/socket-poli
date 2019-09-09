@@ -3,3 +3,6 @@
 *.project
 *.txt
 *.classpath
+# ignore folder
+.settings
+bin
